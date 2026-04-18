@@ -92,7 +92,7 @@ npx vsce package
 
 ## License
 
-MIT License - 随便用
+MIT License 
 
 ---
 
